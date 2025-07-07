@@ -2,9 +2,14 @@
 # requires-python = ">=3.13"
 # dependencies = [
 #     "pandas",
+#     "requests",
 #     "streamlit",
 # ]
 # ///
+
+# I HAVE USED 'UV' - (PACKAGE MANAGER LIKE NPM BUT FOR PYTHON )
+# There is a different way to execute scripts (like this) and projects when working with UV
+# check README.md for the same
 
 '''
 Streamlit utilises python's declarative code.
